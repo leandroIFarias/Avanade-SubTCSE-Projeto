@@ -5,3 +5,5 @@ Abordaremos desde a configuração do ambiente, até a publicação da aplicaç�
 ## Dia 01
 Criacao do Projeto C# - Web Api com .Net 5.
 
+## Dia 02
+Criacao da estrutura de pastas e projetos no padrao DDD.
